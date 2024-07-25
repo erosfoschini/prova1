@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+p{
+    
+    font-size: 19px
+    
+}
+a{
+    display: flex;
+    justify-content: center;
+}
+link{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    
+}
